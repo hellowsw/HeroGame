@@ -1,0 +1,6 @@
+D:\funGame2\BYBY\mobile_douyu\Assets\Plugins\UnityDLL.dll
+D:\funGame2\BYBY\mobile_douyu\Assets\Plugins\UnityDLL.pdb
+D:\funGame2\BYBY\src\ByCode\obj\IOS_Douyu\UnityDLL.dll
+D:\funGame2\BYBY\src\ByCode\obj\IOS_Douyu\UnityDLL.pdb
+D:\funGame2\BYBY\ios\UnityDLL.dll
+D:\funGame2\BYBY\ios\UnityDLL.pdb

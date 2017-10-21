@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3617776987
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14a6a8009c6189860ff0886cf9fa9727
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Temp/World/World.lua.bytes
+- Assets/Temp/World/MainTown.lua.bytes
+- Assets/Temp/World/Dungeon.lua.bytes
+Dependencies: []

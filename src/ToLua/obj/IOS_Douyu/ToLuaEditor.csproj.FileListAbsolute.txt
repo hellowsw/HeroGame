@@ -1,0 +1,5 @@
+D:\funGame2\BYBY\ios\ToLuaEditor.dll
+D:\funGame2\BYBY\ios\ToLuaEditor.pdb
+D:\funGame2\BYBY\src\ToLua\obj\IOS_Douyu\ToLuaEditor.csprojResolveAssemblyReference.cache
+D:\funGame2\BYBY\src\ToLua\obj\IOS_Douyu\ToLuaEditor.dll
+D:\funGame2\BYBY\src\ToLua\obj\IOS_Douyu\ToLuaEditor.pdb

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>E439935D-B2A2-46AE-856D-2AA408428F33</ProjectGuid>
+    <!--$guid1$-->
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>
+    </StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>LuaScripts</Name>
+    <RootNamespace>LuaScripts</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'MobileDebug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <OutputPath>bin\MobileDebug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug_Douyu' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <OutputPath>bin\Debug_Douyu\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'MobileDebug_Douyu' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <OutputPath>bin\MobileDebug_Douyu\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Android_Douyu' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <OutputPath>bin\Android_Douyu\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Common\" />
+    <Folder Include="Common\Container\" />
+    <Folder Include="Fighting\Behavior\" />
+    <Folder Include="Message\" />
+    <Folder Include="Message\MsgHandler\" />
+    <Folder Include="Interface\" />
+    <Folder Include="Fighting\" />
+    <Folder Include="Manager\" />
+    <Folder Include="Config\" />
+    <Folder Include="World\" />
+    <Folder Include="Object\" />
+    <Folder Include="UI\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ByInit.lua" />
+    <Compile Include="Common\BitOp32Ex.lua" />
+    <Compile Include="Common\Common.lua" />
+    <Compile Include="Common\Extension.lua" />
+    <Compile Include="Common\Container\GridMap.lua" />
+    <Compile Include="Common\LuaObject.lua" />
+    <Compile Include="Common\MessageCenter.lua" />
+    <Compile Include="Common\Container\Queue.lua" />
+    <Compile Include="Config\dungeon_config.lua" />
+    <Compile Include="Config\hero_config.lua" />
+    <Compile Include="Config\monster_config.lua" />
+    <Compile Include="Config\skill_config.lua" />
+    <Compile Include="Fighting\Behavior\Behavior.lua" />
+    <Compile Include="Fighting\Behavior\Move.lua" />
+    <Compile Include="Fighting\Behavior\Skill.lua" />
+    <Compile Include="Fighting\FightRole.lua" />
+    <Compile Include="Import.lua" />
+    <Compile Include="Main.lua" />
+    <Compile Include="Manager\GameManager.lua" />
+    <Compile Include="Manager\PromptManager.lua" />
+    <Compile Include="Manager\UIManager.lua" />
+    <Compile Include="Message\msg.lua" />
+    <Compile Include="Message\MsgHandler\CommonDataDefs.lua" />
+    <Compile Include="Message\MsgHandler\CppRpcHandler.lua" />
+    <Compile Include="Message\MsgHandler\MessageBase.lua" />
+    <Compile Include="Message\MsgHandler\ObjectDataDefs.lua" />
+    <Compile Include="Message\MsgHandler\RegionMsgHandler.lua" />
+    <Compile Include="Message\MsgHandler\SysMsg.lua" />
+    <Compile Include="Message\MsgHandler\SysMsgHandler.lua" />
+    <Compile Include="Message\rpc.lua" />
+    <Compile Include="Interface\NetInterface.lua" />
+    <Compile Include="Object\ObjectPool.lua" />
+    <Compile Include="Object\RecoverableObject.lua" />
+    <Compile Include="Interface\WorldInterface.lua" />
+    <Compile Include="UI\BaseUI.lua" />
+    <Compile Include="UI\UIChapter.lua" />
+    <Compile Include="UI\UIDungeon.lua" />
+    <Compile Include="UI\UIDungeonDone.lua" />
+    <Compile Include="UI\UIEvent.lua" />
+    <Compile Include="UI\UIExtremeSkill.lua" />
+    <Compile Include="UI\UIMainTown.lua" />
+    <Compile Include="World\Dungeon.lua" />
+    <Compile Include="World\MainTown.lua" />
+    <Compile Include="World\World.lua" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
+</Project>

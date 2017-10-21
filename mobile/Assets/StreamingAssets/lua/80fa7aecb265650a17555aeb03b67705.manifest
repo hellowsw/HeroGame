@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 855484119
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c2c476ce4888bf5f2a969b6b9bad698
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Temp/Message/MsgHandler/MessageBase.lua.bytes
+- Assets/Temp/Message/MsgHandler/SysMsgHandler.lua.bytes
+- Assets/Temp/Message/MsgHandler/SysMsg.lua.bytes
+- Assets/Temp/Message/MsgHandler/RegionMsgHandler.lua.bytes
+- Assets/Temp/Message/MsgHandler/ObjectDataDefs.lua.bytes
+- Assets/Temp/Message/MsgHandler/CommonDataDefs.lua.bytes
+- Assets/Temp/Message/MsgHandler/CppRpcHandler.lua.bytes
+Dependencies: []

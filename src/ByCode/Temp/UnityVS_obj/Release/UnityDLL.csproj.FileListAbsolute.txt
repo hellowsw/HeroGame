@@ -1,0 +1,16 @@
+D:\funGame2\LTBY\bin\Assets\Plugins\Android\UnityDLL.dll
+D:\funGame2\LTBY\bin\Assets\Plugins\Android\UnityDLL.pdb
+D:\funGame2\LTBY\src\ByCode\Temp\UnityVS_obj\Release\UnityDLL.dll
+D:\funGame2\LTBY\src\ByCode\Temp\UnityVS_obj\Release\UnityDLL.pdb
+D:\funGame2\BYBY\mobile\Assets\Plugins\UnityDLL.dll
+D:\funGame2\BYBY\mobile\Assets\Plugins\UnityDLL.pdb
+D:\funGame2\BYBY\src\ByCode\Temp\UnityVS_obj\Release\UnityDLL.dll
+D:\funGame2\BYBY\src\ByCode\Temp\UnityVS_obj\Release\UnityDLL.pdb
+D:\ByPC\mobile\Assets\Plugins\UnityDLL.dll
+D:\ByPC\mobile\Assets\Plugins\UnityDLL.pdb
+D:\ByPC\src\ByCode\Temp\UnityVS_obj\Release\UnityDLL.dll
+D:\ByPC\src\ByCode\Temp\UnityVS_obj\Release\UnityDLL.pdb
+D:\ByPC\windows\Assets\Plugins\UnityDLL.dll
+D:\ByPC\windows\Assets\Plugins\UnityDLL.pdb
+D:\funGame2\BYBY\src\ByCode\Temp\UnityVS_obj\Release\UnityDLL.csprojResolveAssemblyReference.cache
+D:\ByPC\src\ByCode\Temp\UnityVS_obj\Release\UnityDLL.csprojResolveAssemblyReference.cache

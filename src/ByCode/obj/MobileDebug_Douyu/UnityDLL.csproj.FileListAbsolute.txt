@@ -1,0 +1,12 @@
+D:\funGame2\BYBY\src\ByCode\bin\MobileDebug_Douyu\UnityDLL.dll
+D:\funGame2\BYBY\src\ByCode\bin\MobileDebug_Douyu\UnityDLL.pdb
+D:\funGame2\BYBY\src\ByCode\obj\MobileDebug_Douyu\UnityDLL.dll
+D:\funGame2\BYBY\src\ByCode\obj\MobileDebug_Douyu\UnityDLL.pdb
+D:\funGame2\BYBY\mobile_douyu\Assets\Plugins\UnityDLL.dll
+D:\funGame2\BYBY\mobile_douyu\Assets\Plugins\UnityDLL.pdb
+D:\ByPC\mobile_douyu\Assets\Plugins\UnityDLL.dll
+D:\ByPC\mobile_douyu\Assets\Plugins\UnityDLL.pdb
+D:\ByPC\src\ByCode\obj\MobileDebug_Douyu\UnityDLL.dll
+D:\ByPC\src\ByCode\obj\MobileDebug_Douyu\UnityDLL.pdb
+D:\ByPC\src\ByCode\obj\MobileDebug_Douyu\UnityDLL.csprojResolveAssemblyReference.cache
+D:\funGame2\BYBY\src\ByCode\obj\MobileDebug_Douyu\UnityDLL.csprojResolveAssemblyReference.cache

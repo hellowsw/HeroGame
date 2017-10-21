@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 730926001
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ff2e38a9875dcd6e339cfea28e0db6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Temp/UnityEngine/Color.lua.bytes
+- Assets/Temp/UnityEngine/Vector3.lua.bytes
+- Assets/Temp/UnityEngine/RaycastHit.lua.bytes
+- Assets/Temp/UnityEngine/Vector4.lua.bytes
+- Assets/Temp/UnityEngine/Ray.lua.bytes
+- Assets/Temp/UnityEngine/Plane.lua.bytes
+- Assets/Temp/UnityEngine/LayerMask.lua.bytes
+- Assets/Temp/UnityEngine/Quaternion.lua.bytes
+- Assets/Temp/UnityEngine/Touch.lua.bytes
+- Assets/Temp/UnityEngine/Vector2.lua.bytes
+- Assets/Temp/UnityEngine/Bounds.lua.bytes
+- Assets/Temp/UnityEngine/Time.lua.bytes
+- Assets/Temp/UnityEngine/Mathf.lua.bytes
+Dependencies: []

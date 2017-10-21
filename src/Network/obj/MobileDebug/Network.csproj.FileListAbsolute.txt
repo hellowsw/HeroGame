@@ -1,0 +1,5 @@
+D:\empty_project\mobile\Assets\Plugins\Network.dll
+D:\empty_project\mobile\Assets\Plugins\Network.pdb
+D:\empty_project\src\Network\obj\MobileDebug\Network.csprojResolveAssemblyReference.cache
+D:\empty_project\src\Network\obj\MobileDebug\Network.dll
+D:\empty_project\src\Network\obj\MobileDebug\Network.pdb

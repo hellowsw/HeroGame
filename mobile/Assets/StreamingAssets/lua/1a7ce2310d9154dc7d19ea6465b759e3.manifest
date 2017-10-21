@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 91980945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad4f4f84351b50df7f81fa7ffc8a0429
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Temp/UI/UIExtremeSkill.lua.bytes
+- Assets/Temp/UI/UIDungeon.lua.bytes
+- Assets/Temp/UI/BaseUI.lua.bytes
+- Assets/Temp/UI/UIBossawdpanel.lua.bytes
+- Assets/Temp/UI/UIEvent.lua.bytes
+- Assets/Temp/UI/UIMainTown.lua.bytes
+- Assets/Temp/UI/Microdownloadpanel.lua.bytes
+- Assets/Temp/UI/UIChapter.lua.bytes
+- Assets/Temp/UI/UIDungeonDone.lua.bytes
+Dependencies: []

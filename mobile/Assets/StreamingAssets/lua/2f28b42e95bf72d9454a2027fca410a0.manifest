@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1426135940
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a43e062f3d83e3127db941ecdb72b8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Temp/protobuf/decoder.lua.bytes
+- Assets/Temp/protobuf/containers.lua.bytes
+- Assets/Temp/protobuf/encoder.lua.bytes
+- Assets/Temp/protobuf/wire_format.lua.bytes
+- Assets/Temp/protobuf/protobuf.lua.bytes
+- Assets/Temp/protobuf/listener.lua.bytes
+- Assets/Temp/protobuf/type_checkers.lua.bytes
+- Assets/Temp/protobuf/text_format.lua.bytes
+- Assets/Temp/protobuf/descriptor.lua.bytes
+Dependencies: []

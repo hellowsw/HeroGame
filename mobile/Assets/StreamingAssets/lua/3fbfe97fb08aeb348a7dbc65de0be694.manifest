@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3490344532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 353c7d72aec76f4e8b99545ae25eb113
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Temp/Common/LuaObject.lua.bytes
+- Assets/Temp/Common/Common.lua.bytes
+- Assets/Temp/Common/MessageCenter.lua.bytes
+- Assets/Temp/Common/BitOp32Ex.lua.bytes
+- Assets/Temp/Common/Extension.lua.bytes
+Dependencies: []

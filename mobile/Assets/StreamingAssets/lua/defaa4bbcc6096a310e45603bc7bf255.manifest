@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2890623333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 514588365516d36fead7d021feefe85f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Temp/Message/AddressMsg.lua.bytes
+- Assets/Temp/Message/CheerfulFishMsg.lua.bytes
+- Assets/Temp/Message/rpc.lua.bytes
+- Assets/Temp/Message/msg.lua.bytes
+Dependencies: []

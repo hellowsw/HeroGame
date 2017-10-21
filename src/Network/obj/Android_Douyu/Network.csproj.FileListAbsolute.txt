@@ -1,0 +1,9 @@
+D:\funGame2\BYBY\mobile_douyu\Assets\Plugins\Network.dll
+D:\funGame2\BYBY\mobile_douyu\Assets\Plugins\Network.pdb
+D:\funGame2\BYBY\src\Network\obj\Android_Douyu\Network.csprojResolveAssemblyReference.cache
+D:\funGame2\BYBY\src\Network\obj\Android_Douyu\Network.dll
+D:\funGame2\BYBY\src\Network\obj\Android_Douyu\Network.pdb
+D:\ByPC\mobile_douyu\Assets\Plugins\Network.dll
+D:\ByPC\mobile_douyu\Assets\Plugins\Network.pdb
+D:\ByPC\src\Network\obj\Android_Douyu\Network.dll
+D:\ByPC\src\Network\obj\Android_Douyu\Network.pdb

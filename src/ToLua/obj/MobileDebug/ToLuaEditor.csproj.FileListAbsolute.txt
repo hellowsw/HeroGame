@@ -1,0 +1,15 @@
+D:\ByPC\mobile\Assets\Editor\ToLuaEditor.dll
+D:\ByPC\mobile\Assets\Editor\ToLuaEditor.pdb
+D:\ByPC\src\ToLua\obj\MobileDebug\ToLuaEditor.csprojResolveAssemblyReference.cache
+D:\ByPC\src\ToLua\obj\MobileDebug\ToLuaEditor.dll
+D:\ByPC\src\ToLua\obj\MobileDebug\ToLuaEditor.pdb
+D:\funGame2\BYBY\src\ToLua\obj\MobileDebug\ToLuaEditor.dll
+D:\funGame2\BYBY\src\ToLua\obj\MobileDebug\ToLuaEditor.pdb
+D:\funGame2\BYBY\mobile\Assets\Editor\ToLuaEditor.dll
+D:\funGame2\BYBY\mobile\Assets\Editor\ToLuaEditor.pdb
+D:\funGame2\BYBY\src\ToLua\obj\MobileDebug\ToLuaEditor.csprojResolveAssemblyReference.cache
+D:\empty_project\mobile\Assets\Editor\ToLuaEditor.dll
+D:\empty_project\mobile\Assets\Editor\ToLuaEditor.pdb
+D:\empty_project\src\ToLua\obj\MobileDebug\ToLuaEditor.csprojResolveAssemblyReference.cache
+D:\empty_project\src\ToLua\obj\MobileDebug\ToLuaEditor.dll
+D:\empty_project\src\ToLua\obj\MobileDebug\ToLuaEditor.pdb

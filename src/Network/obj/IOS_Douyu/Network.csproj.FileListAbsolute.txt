@@ -1,0 +1,7 @@
+D:\funGame2\BYBY\mobile_douyu\Assets\Plugins\Network.dll
+D:\funGame2\BYBY\mobile_douyu\Assets\Plugins\Network.pdb
+D:\funGame2\BYBY\src\Network\obj\IOS_Douyu\Network.dll
+D:\funGame2\BYBY\src\Network\obj\IOS_Douyu\Network.pdb
+D:\funGame2\BYBY\ios\Network.dll
+D:\funGame2\BYBY\ios\Network.pdb
+D:\funGame2\BYBY\src\Network\obj\IOS_Douyu\Network.csprojResolveAssemblyReference.cache

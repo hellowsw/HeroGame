@@ -1,0 +1,9 @@
+D:\funGame2\BYBY\windows\Assets\Plugins\Network.dll
+D:\funGame2\BYBY\windows\Assets\Plugins\Network.pdb
+D:\funGame2\BYBY\src\Network\obj\Debug\Network.dll
+D:\funGame2\BYBY\src\Network\obj\Debug\Network.pdb
+D:\ByPC\src\Network\obj\Debug\Network.dll
+D:\ByPC\src\Network\obj\Debug\Network.pdb
+D:\ByPC\windows\Assets\Plugins\Network.dll
+D:\ByPC\windows\Assets\Plugins\Network.pdb
+D:\funGame2\BYBY\src\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache

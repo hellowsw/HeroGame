@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 3235849384
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: lua/lua_cjson
+      Dependencies: {}
+    Info_1:
+      Name: lua/lua_common
+      Dependencies: {}
+    Info_2:
+      Name: lua/lua_config
+      Dependencies: {}
+    Info_3:
+      Name: lua/lua_fighting
+      Dependencies: {}
+    Info_4:
+      Name: lua/lua_interface
+      Dependencies: {}
+    Info_5:
+      Name: lua/lua_lpeg
+      Dependencies: {}
+    Info_6:
+      Name: lua/lua_luascirpts
+      Dependencies: {}
+    Info_7:
+      Name: lua/lua_manager
+      Dependencies: {}
+    Info_8:
+      Name: lua/lua_message
+      Dependencies: {}
+    Info_9:
+      Name: lua/lua_misc
+      Dependencies: {}
+    Info_10:
+      Name: lua/lua_object
+      Dependencies: {}
+    Info_11:
+      Name: lua/lua_protobuf
+      Dependencies: {}
+    Info_12:
+      Name: lua/lua_socket
+      Dependencies: {}
+    Info_13:
+      Name: lua/lua_system
+      Dependencies: {}
+    Info_14:
+      Name: lua/lua_ui
+      Dependencies: {}
+    Info_15:
+      Name: lua/lua_unityengine
+      Dependencies: {}
+    Info_16:
+      Name: lua/lua_world
+      Dependencies: {}
+    Info_17:
+      Name: lua/lua_common_container
+      Dependencies: {}
+    Info_18:
+      Name: lua/lua_fighting_behavior
+      Dependencies: {}
+    Info_19:
+      Name: lua/lua_message_msghandler
+      Dependencies: {}
+    Info_20:
+      Name: lua/lua_system_reflection
+      Dependencies: {}
+    Info_21:
+      Name: lua/lua
+      Dependencies: {}

@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Project Name="luascirpts.luaprj" Cmd="" Arg="" Dir="" Toggle="false" >
+    <Filter Name="Lua" Directory=".\.." Toggle="false" >
+        <LuaFile RelativePath=".\..\ByInit.lua" />
+        <LuaFile RelativePath=".\..\Main.lua" />
+        <Filter Name="Animation" Directory=".\..\Animation" Toggle="true" >
+            <LuaFile RelativePath=".\..\Animation\AnimationBase.lua" />
+            <LuaFile RelativePath=".\..\Animation\AnimationQueue.lua" />
+            <LuaFile RelativePath=".\..\Animation\IconBounceAnim.lua" />
+            <LuaFile RelativePath=".\..\Animation\RedPaperOpenAnim.lua" />
+            <LuaFile RelativePath=".\..\Animation\RedPaperShakeAnim.lua" />
+            <LuaFile RelativePath=".\..\Animation\UICongratulationAnim.lua" />
+            <LuaFile RelativePath=".\..\Animation\UIFishingMissileAnim.lua" />
+            <LuaFile RelativePath=".\..\Animation\UIMatchSelectAnim.lua" />
+            <LuaFile RelativePath=".\..\Animation\UISelectAnim.lua" />
+            <LuaFile RelativePath=".\..\Animation\UIStartActivityBarAnim.lua" />
+            <LuaFile RelativePath=".\..\Animation\UIStartChargeBarAnim.lua" />
+            <LuaFile RelativePath=".\..\Animation\UIStartFunctionBarAnim.lua" />
+            <LuaFile RelativePath=".\..\Animation\UIVipAnim.lua" />
+        </Filter>
+        <Filter Name="Common" Directory=".\..\Common" Toggle="false" >
+            <LuaFile RelativePath=".\..\Common\BitOp32Ex.lua" />
+            <LuaFile RelativePath=".\..\Common\Extension.lua" />
+            <LuaFile RelativePath=".\..\Common\GameSetting.lua" />
+            <LuaFile RelativePath=".\..\Common\GameState.lua" />
+            <LuaFile RelativePath=".\..\Common\GridMap.lua" />
+            <LuaFile RelativePath=".\..\Common\HTransform.lua" />
+            <LuaFile RelativePath=".\..\Common\LuaByUtil.lua" />
+            <LuaFile RelativePath=".\..\Common\MessageCenter.lua" />
+            <Filter Name="UnityExtension" Directory=".\..\Common\UnityExtension" Toggle="true" >
+                <LuaFile RelativePath=".\..\Common\UnityExtension\LuaGameObject.lua" />
+                <LuaFile RelativePath=".\..\Common\UnityExtension\LuaTransform.lua" />
+                <LuaFile RelativePath=".\..\Common\UnityExtension\Vector3Extension.lua" />
+            </Filter>
+        </Filter>
+        <Filter Name="Config" Directory=".\..\Config" Toggle="true" >
+            <LuaFile RelativePath=".\..\Config\chat_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\client_common_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\competition_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\fish_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\fishspecies_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\gift_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\gun_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\item_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\level_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\liveness_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\loast_login_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\lottery_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\model_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\month_card_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\name_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\player_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\prompt_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\random_task_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\region_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\robot_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\rule_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\skill_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\store_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\team_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\vip_conf.lua" />
+            <LuaFile RelativePath=".\..\Config\weapon_effect_config.lua" />
+        </Filter>
+        <Filter Name="Fishing" Directory=".\..\Fishing" Toggle="false" >
+            <LuaFile RelativePath=".\..\Fishing\Bullet.lua" />
+            <LuaFile RelativePath=".\..\Fishing\Cannon.lua" />
+            <LuaFile RelativePath=".\..\Fishing\Fish.lua" />
+            <LuaFile RelativePath=".\..\Fishing\FishArray.lua" />
+            <LuaFile RelativePath=".\..\Fishing\FishDefine.lua" />
+            <LuaFile RelativePath=".\..\Fishing\ItemHandler.lua" />
+            <LuaFile RelativePath=".\..\Fishing\Pedestal.lua" />
+            <LuaFile RelativePath=".\..\Fishing\SkillHandler.lua" />
+            <Filter Name="Effect" Directory=".\..\Fishing\Effect" Toggle="true" >
+                <LuaFile RelativePath=".\..\Fishing\Effect\BombEffect.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\BombFishEffect.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\BulletEffect.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\BulletLockEffect.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\CannonLevelupEffect.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\CoinEffect.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\DeadEffect3.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\DeadEffect4.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\DiscEffect.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\DropItemEffect.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\FrozenEffect.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\GainEffect.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\LightningEffect.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\LightningFishEffect.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\LockEffect.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\NBombEffect.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\NumPrompt.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\Speaking.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Effect\SummonEffect.lua" />
+            </Filter>
+            <Filter Name="Match" Directory=".\..\Fishing\Match" Toggle="true" >
+                <LuaFile RelativePath=".\..\Fishing\Match\Guide.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Match\MatchArcade.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Match\MatchBase.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Match\MatchBigPrize.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Match\MatchDuel.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Match\MatchEveryDay.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Match\MatchTeam.lua" />
+                <LuaFile RelativePath=".\..\Fishing\Match\MatchWholePeople.lua" />
+            </Filter>
+            <Filter Name="PoolObj" Directory=".\..\Fishing\PoolObj" Toggle="true" >
+                <LuaFile RelativePath=".\..\Fishing\PoolObj\BossCoinExplodeObject.lua" />
+                <LuaFile RelativePath=".\..\Fishing\PoolObj\BronzeBulletObject.lua" />
+                <LuaFile RelativePath=".\..\Fishing\PoolObj\BulletBombObject.lua" />
+                <LuaFile RelativePath=".\..\Fishing\PoolObj\CoinObject.lua" />
+                <LuaFile RelativePath=".\..\Fishing\PoolObj\DiamondObject.lua" />
+                <LuaFile RelativePath=".\..\Fishing\PoolObj\DottedObject.lua" />
+                <LuaFile RelativePath=".\..\Fishing\PoolObj\FrozenMaterial.lua" />
+                <LuaFile RelativePath=".\..\Fishing\PoolObj\GeneralNotParticleObject.lua" />
+                <LuaFile RelativePath=".\..\Fishing\PoolObj\GeneralObject.lua" />
+                <LuaFile RelativePath=".\..\Fishing\PoolObj\GoldBulletObject.lua" />
+                <LuaFile RelativePath=".\..\Fishing\PoolObj\LightningObject.lua" />
+                <LuaFile RelativePath=".\..\Fishing\PoolObj\SilverBulletObject.lua" />
+                <LuaFile RelativePath=".\..\Fishing\PoolObj\SmallCoinExplodeObject.lua" />
+            </Filter>
+            <Filter Name="State" Directory=".\..\Fishing\State" Toggle="true" >
+                <LuaFile RelativePath=".\..\Fishing\State\BaseState.lua" />
+                <LuaFile RelativePath=".\..\Fishing\State\BotState.lua" />
+            </Filter>
+        </Filter>
+        <Filter Name="Interface" Directory=".\..\Interface" Toggle="true" >
+            <LuaFile RelativePath=".\..\Interface\NetInterface.lua" />
+            <LuaFile RelativePath=".\..\Interface\WorldInterface.lua" />
+        </Filter>
+        <Filter Name="luascirpts" Directory="." Toggle="true" />
+        <Filter Name="Manager" Directory=".\..\Manager" Toggle="true" >
+            <LuaFile RelativePath=".\..\Manager\AnimationManager.lua" />
+            <LuaFile RelativePath=".\..\Manager\SoundManager.lua" />
+            <LuaFile RelativePath=".\..\Manager\UIManager.lua" />
+        </Filter>
+        <Filter Name="Message" Directory=".\..\Message" Toggle="false" >
+            <LuaFile RelativePath=".\..\Message\BoardMsg.lua" />
+            <LuaFile RelativePath=".\..\Message\ChatMsg.lua" />
+            <LuaFile RelativePath=".\..\Message\CommonMsg.lua" />
+            <LuaFile RelativePath=".\..\Message\FirendMsg.lua" />
+            <LuaFile RelativePath=".\..\Message\FishingMsg.lua" />
+            <LuaFile RelativePath=".\..\Message\FriendMsg.lua" />
+            <LuaFile RelativePath=".\..\Message\HuoYueMsg.lua" />
+            <LuaFile RelativePath=".\..\Message\ItemMsg.lua" />
+            <LuaFile RelativePath=".\..\Message\JiuJiMsg.lua" />
+            <LuaFile RelativePath=".\..\Message\LianXuLogin.lua" />
+            <LuaFile RelativePath=".\..\Message\MailMsg.lua" />
+            <LuaFile RelativePath=".\..\Message\MatchMessage.lua" />
+            <LuaFile RelativePath=".\..\Message\MonthCardMsg.lua" />
+            <LuaFile RelativePath=".\..\Message\msg.lua" />
+            <LuaFile RelativePath=".\..\Message\PlayerMsg.lua" />
+            <LuaFile RelativePath=".\..\Message\RangerMsg.lua" />
+            <LuaFile RelativePath=".\..\Message\RedBagMsg.lua" />
+            <LuaFile RelativePath=".\..\Message\rpc.lua" />
+            <LuaFile RelativePath=".\..\Message\SendCppWrap.lua" />
+            <LuaFile RelativePath=".\..\Message\StoreMsg.lua" />
+            <LuaFile RelativePath=".\..\Message\TaskMessage.lua" />
+            <LuaFile RelativePath=".\..\Message\TimesManager.lua" />
+            <Filter Name="MsgHandler" Directory=".\..\Message\MsgHandler" Toggle="true" >
+                <LuaFile RelativePath=".\..\Message\MsgHandler\CommonDataDefs.lua" />
+                <LuaFile RelativePath=".\..\Message\MsgHandler\CppRpcHandler.lua" />
+                <LuaFile RelativePath=".\..\Message\MsgHandler\MessageBase.lua" />
+                <LuaFile RelativePath=".\..\Message\MsgHandler\ObjectDataDefs.lua" />
+                <LuaFile RelativePath=".\..\Message\MsgHandler\RegionMsgHandler.lua" />
+                <LuaFile RelativePath=".\..\Message\MsgHandler\SysMsg.lua" />
+                <LuaFile RelativePath=".\..\Message\MsgHandler\SysMsgHandler.lua" />
+            </Filter>
+        </Filter>
+        <Filter Name="Model" Directory=".\..\Model" Toggle="false" >
+            <LuaFile RelativePath=".\..\Model\ClientItem.lua" />
+            <Filter Name="Player" Directory=".\..\Model\Player" Toggle="true" >
+                <LuaFile RelativePath=".\..\Model\Player\ClientPlayer.lua" />
+                <LuaFile RelativePath=".\..\Model\Player\MasterPlayer.lua" />
+            </Filter>
+        </Filter>
+        <Filter Name="obj" Directory=".\..\obj" Toggle="true" >
+            <Filter Name="Debug" Directory=".\..\obj\Debug" Toggle="true" />
+        </Filter>
+        <Filter Name="Object" Directory=".\..\Object" Toggle="true" >
+            <LuaFile RelativePath=".\..\Object\ObjectPool.lua" />
+            <LuaFile RelativePath=".\..\Object\RecoverableObject.lua" />
+        </Filter>
+        <Filter Name="Scene" Directory=".\..\Scene" Toggle="true" >
+            <LuaFile RelativePath=".\..\Scene\FishingScene.lua" />
+            <LuaFile RelativePath=".\..\Scene\LoginScene.lua" />
+            <LuaFile RelativePath=".\..\Scene\SceneBase.lua" />
+            <LuaFile RelativePath=".\..\Scene\StartScene.lua" />
+            <LuaFile RelativePath=".\..\Scene\World.lua" />
+        </Filter>
+        <Filter Name="UI" Directory=".\..\UI" Toggle="true" >
+            <LuaFile RelativePath=".\..\UI\BaseUI.lua" />
+            <LuaFile RelativePath=".\..\UI\BoardMessage.lua" />
+            <LuaFile RelativePath=".\..\UI\ItemTips.lua" />
+            <LuaFile RelativePath=".\..\UI\MessageBox.lua" />
+            <LuaFile RelativePath=".\..\UI\RedPaper.lua" />
+            <LuaFile RelativePath=".\..\UI\UIAddress.lua" />
+            <LuaFile RelativePath=".\..\UI\UIBossComing.lua" />
+            <LuaFile RelativePath=".\..\UI\UIBossDead.lua" />
+            <LuaFile RelativePath=".\..\UI\UICannonExperience.lua" />
+            <LuaFile RelativePath=".\..\UI\UICannonUnlock.lua" />
+            <LuaFile RelativePath=".\..\UI\UIChangeName.lua" />
+            <LuaFile RelativePath=".\..\UI\UIChangeRoom.lua" />
+            <LuaFile RelativePath=".\..\UI\UIChat.lua" />
+            <LuaFile RelativePath=".\..\UI\UIColorMask.lua" />
+            <LuaFile RelativePath=".\..\UI\UIDuiHuan.lua" />
+            <LuaFile RelativePath=".\..\UI\UIEmail.lua" />
+            <LuaFile RelativePath=".\..\UI\UIEquip.lua" />
+            <LuaFile RelativePath=".\..\UI\UIEvent.lua" />
+            <LuaFile RelativePath=".\..\UI\UIExchange.lua" />
+            <LuaFile RelativePath=".\..\UI\UIFirendMessage.lua" />
+            <LuaFile RelativePath=".\..\UI\UIFirendPanel.lua" />
+            <LuaFile RelativePath=".\..\UI\UIFirstCharge.lua" />
+            <LuaFile RelativePath=".\..\UI\UIFish.lua" />
+            <LuaFile RelativePath=".\..\UI\UIFishDamp.lua" />
+            <LuaFile RelativePath=".\..\UI\UIFishing.lua" />
+            <LuaFile RelativePath=".\..\UI\UIFriendRequest.lua" />
+            <LuaFile RelativePath=".\..\UI\UIGiveItem.lua" />
+            <LuaFile RelativePath=".\..\UI\UIGM.lua" />
+            <LuaFile RelativePath=".\..\UI\UIHuoYue.lua" />
+            <LuaFile RelativePath=".\..\UI\UILingQu.lua" />
+            <LuaFile RelativePath=".\..\UI\UILoading.lua" />
+            <LuaFile RelativePath=".\..\UI\UILogin.lua" />
+            <LuaFile RelativePath=".\..\UI\UILuckyDraw.lua" />
+            <LuaFile RelativePath=".\..\UI\UILuckyDrawShow.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMatchBigPrize.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMatchBigPrizeBalance.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMatchBigPrizeRank.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMatchDuel.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMatchDuelDone.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMatchEveryDay.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMatchEveryDaySign.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMatchPanel.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMatchRule.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMatchTeam.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMatchTeamBalance.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMatchWhole.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMatchWholeBalance.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMatchWholePanel.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMatchWholeRankPanel.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMonthCard.lua" />
+            <LuaFile RelativePath=".\..\UI\UIMultiFishDead.lua" />
+            <LuaFile RelativePath=".\..\UI\UINewbieGift.lua" />
+            <LuaFile RelativePath=".\..\UI\UINewbieGuide.lua" />
+            <LuaFile RelativePath=".\..\UI\UIOnhook.lua" />
+            <LuaFile RelativePath=".\..\UI\UIPack.lua" />
+            <LuaFile RelativePath=".\..\UI\UIPlayer.lua" />
+            <LuaFile RelativePath=".\..\UI\UIPlayerLevelup.lua" />
+            <LuaFile RelativePath=".\..\UI\UIPlayerPanel.lua" />
+            <LuaFile RelativePath=".\..\UI\UIPrompt.lua" />
+            <LuaFile RelativePath=".\..\UI\UIQianDao.lua" />
+            <LuaFile RelativePath=".\..\UI\UIRanger.lua" />
+            <LuaFile RelativePath=".\..\UI\UIRangerApply.lua" />
+            <LuaFile RelativePath=".\..\UI\UIRank.lua" />
+            <LuaFile RelativePath=".\..\UI\UIRankBalance.lua" />
+            <LuaFile RelativePath=".\..\UI\UISelectAthletics.lua" />
+            <LuaFile RelativePath=".\..\UI\UISelectLevel.lua" />
+            <LuaFile RelativePath=".\..\UI\UISetting.lua" />
+            <LuaFile RelativePath=".\..\UI\UIStart.lua" />
+            <LuaFile RelativePath=".\..\UI\UIStartBackground.lua" />
+            <LuaFile RelativePath=".\..\UI\UIStarUp.lua" />
+            <LuaFile RelativePath=".\..\UI\UIStore.lua" />
+            <LuaFile RelativePath=".\..\UI\UITask.lua" />
+            <LuaFile RelativePath=".\..\UI\UITeamMatchPanel.lua" />
+            <LuaFile RelativePath=".\..\UI\UIVIPPanel.lua" />
+            <LuaFile RelativePath=".\..\UI\UIWaiting.lua" />
+            <LuaFile RelativePath=".\..\UI\UIWeaponsDepot.lua" />
+        </Filter>
+    </Filter>
+</Project>
